@@ -15,6 +15,8 @@
     2. Run the following command (update the path if different):
 
         & C:\Users\ASUS\AppData\Local\Programs\Python\Python313\python.exe c:/Users/ASUS/encureit_assignment/main.py
+        OR
+        right click -> Run Python ->Run Python File in Terminal
 
 # Architectural Decisions:
 ## Libraries:
