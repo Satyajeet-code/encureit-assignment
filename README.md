@@ -1,8 +1,8 @@
 # Project Setup
 
 ## Clone the repository
-    git clone https://github.com/satyajeet-code/bom-loan-rag.git
-    cd bom-loan-rag
+    git clone https://github.com/Satyajeet-code/encureit-assignment.git
+    cd encureit-assignment
 
 ## Install dependencies
     pip install -r requirements.txt
